@@ -72,7 +72,7 @@ and platform-wise performance.
 
 ## 📁 Files Included
 - supp data sales.pbix
-- Dashboard image)
+- Dashboard image
 
 ## 📁 Files Included
 - supp data sales.pbix
