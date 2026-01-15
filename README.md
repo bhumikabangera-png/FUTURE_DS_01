@@ -68,7 +68,7 @@ and platform-wise performance.
 - Low return rate indicates strong customer satisfaction.
 
 ## 📷 Dashboard Preview
-![Dashboard](Supplements sales data analysis.jpeg)
+![Dashboard](dashboard.png)
 
 ## 📁 Files Included
 - supp data sales.pbix
